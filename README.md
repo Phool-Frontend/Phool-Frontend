@@ -2,7 +2,7 @@
 <h1>Soy Ingeniero de sistemas e informatica,Desarrollador Web Full-stack</h1>
 <ul>
 <li>Estos son algunos de mis cursos:</li>
-<li><g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji><a href="https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B" rel="nofollow">Curso de CSS</a><a href="#" rel="nofollow"><img align="left" alt="CursoC" width="22px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" style="max-width:100%;"></a></li>
+<li><g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji><a href="https://www.udemy.com/user/phool-2/" rel="nofollow">Curso de CSS</a><a href="#" rel="nofollow"><img align="left" alt="CursoC" width="22px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" style="max-width:100%;"></a></li>
 <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Busco colaborar con otros creadores de contenido</li>
 <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Me gusta estar constantemente aprendiendo cosas nuevas</li>
 </ul><hr>
@@ -55,6 +55,8 @@
     <a target="_blank" rel="noopener noreferrer" href="#"><img align="bottom" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" width="30" height="30" style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="#"><img align="bottom" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Shopify_icon-icons.com_66757.png" width="30" height="30" style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="#"><img align="bottom" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_170552.png" width="30" height="30" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="#"><img align="bottom" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png" width="30" height="30" style="max-width:100%;"></a>
+    <a target="_blank" rel="noopener noreferrer" href="#"><img align="bottom" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ruby_original_wordmark_logo_icon_146364.png" width="30" height="30" style="max-width:100%;"></a>
     
 
 
