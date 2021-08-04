@@ -31,6 +31,7 @@
 <a target="_blank" rel="noopener noreferrer" href="#"><img align="bottom" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png" width="30" height="30" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="#"><img align="bottom" src="https://cdn.icon-icons.com/icons2/2790/PNG/512/json_filetype_icon_177531.png" width="30" height="30" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="#"><img align="bottom" src="https://cdn.icon-icons.com/icons2/2631/PNG/512/google_maps_new_logo_icon_159147.png" width="30" height="30" style="max-width:100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="#"><img align="bottom" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg" width="30" height="30" style="max-width:100%;"></a>
     <h6>Proximamente</h6>
     <a target="_blank" rel="noopener noreferrer" href="#"><img align="bottom" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/figma_logo_icon_170157.png" width="30" height="30" style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="#"><img align="bottom" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" width="30" height="30" style="max-width:100%;"></a>
