@@ -2,7 +2,7 @@
 <h1>Soy Ingeniero de sistemas e informatica,Desarrollador Web Full-stack</h1>
 <ul>
 <li>Estos son algunos de mis cursos:</li>
-<li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Apasionado por la tecnologia</li>
+<li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Apasionado por la tecnologia ya que es como un mar de conocimientos</li>
 <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Siempre dispuesto a ayudar a los demas para convertirme en el senior que me ubiera gustado tener al ser junior</li>
 <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Me gusta estar constantemente aprendiendo cosas nuevas</li>
 </ul><hr>
