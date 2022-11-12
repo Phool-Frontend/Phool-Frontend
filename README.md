@@ -2,8 +2,8 @@
 <h1>Soy Ingeniero de sistemas e informatica,Desarrollador Web Full-stack</h1>
 <ul>
 <li>Estos son algunos de mis cursos:</li>
-<li><g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji><a href="https://www.udemy.com/user/phool-2/" rel="nofollow"> Curso de CSS</a><a href="#" rel="nofollow"><img align="left" alt="CursoC" width="22px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" style="max-width:100%;"></a></li>
-<li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Busco colaborar con otros creadores de contenido</li>
+<li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Apasionado por la tecnologia</li>
+<li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Siempre dispuesto a ayudar a los demas para convertirme en el senior que me ubiera gustado tener al ser junior</li>
 <li><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> Me gusta estar constantemente aprendiendo cosas nuevas</li>
 </ul><hr>
 <h2>Contactame</h2>
