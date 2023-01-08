@@ -26,7 +26,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 - 💼 any freelance work? do reach, [email](mailto:phool_05@hotmail.com) :)
 - 💬 ask me about anything, i am happy to help;
--  <a href="https://api.whatsapp.com/send?phone=51928450226&text=Hola!!!%20vi%20tu%20perfil%20de%20Github,%20y%20decidi%20contactarte." rel="nofollow"><img align="left" alt="YouTube" width="22px" src="https://cdn.icon-icons.com/icons2/373/PNG/256/Whatsapp_37229.png" data-canonical-src="https://cdn.icon-icons.com/icons2/373/PNG/256/Whatsapp_37229.png" style="max-width:100%;"></a> Click here, I'm comunicated with you, good luck.
+- <a href="https://api.whatsapp.com/send?phone=51928450226&text=Hola!!!%20vi%20tu%20perfil%20de%20Github,%20y%20decidi%20contactarte." rel="nofollow"><img align="left" alt="YouTube" width="22px" src="https://cdn.icon-icons.com/icons2/373/PNG/256/Whatsapp_37229.png" data-canonical-src="https://cdn.icon-icons.com/icons2/373/PNG/256/Whatsapp_37229.png" style="max-width:100%;"></a>Click here, I'm comunicated with you, good luck.
 
 
 ** My languages development:**  
@@ -46,10 +46,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   32 hrs 20 mins  ██████████████░   50.95 %
-PHP          14 mins         ▒▒▒░░░░░░░░░░░░   30.26 %
-JavaScript   25 mins         ▒░░░░░░░░░░░░░░   18.77 %
-Other        0 secs          ░░░░░░░░░░░░░░░   00.02 %
+TypeScript   32 hrs 20 mins  █████████████ 50.95 %
+PHP          14 mins         ▒▒▒░░░░░░░░░░ 30.26 %
+JavaScript   25 mins         ▒░░░░░░░░░░░░ 18.77 %
+Other        0 secs          ░░░░░░░░░░░░░ 00.02 %
 ```
 
 <!--END_SECTION:waka-->
@@ -97,7 +97,7 @@ Other        0 secs          ░░░░░░░░░░░░░░░   00.
     <a target="_blank" rel="noopener noreferrer" href="#"><img align="bottom" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Shopify_icon-icons.com_66757.png" width="30" height="30" style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="#"><img align="bottom" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_170552.png" width="30" height="30" style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="#"><img align="bottom" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png" width="30" height="30" style="max-width:100%;"></a>
-    <a target="_blank" rel="noopener noreferrer" href="#"><img align="bottom" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ruby_original_wordmark_logo_icon_146364.png" width="30" height="30" style="max-width:100%;"></a><hr>
+    <a target="_blank" rel="noopener noreferrer" href="#"><img align="bottom" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ruby_original_wordmark_logo_icon_146364.png" width="30" height="30" style="max-width:100%;"></a>
     
 
 
