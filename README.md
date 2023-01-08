@@ -23,8 +23,9 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-- 💼 any freelance work? do reach, [email](mailto:abhishek.naidu@cred.club) :)
+- 💼 any freelance work? do reach, [email](mailto:phool_05@hotmail.com) :)
 - 💬 ask me about anything, i am happy to help;
+- <a href="https://api.whatsapp.com/send?phone=51928450226&text=Hola!!!%20vi%20tu%20perfil%20de%20Github,%20y%20decidi%20contactarte." rel="nofollow">
 
 ** My languages development:**  
 
@@ -43,15 +44,14 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   32 hrs 20 mins  ████████████████████████▓   98.95 %
-PHP         14 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   30.26 %
-JavaScript   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   18.77 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+TypeScript   32 hrs 20 mins  ██████████████▓   98.95 %
+PHP         14 mins          ░░░░░░░░░░░░░░░   30.26 %
+JavaScript   25 mins         ▒░░░░░░░░░░░░░░   18.77 %
+Other        0 secs          ░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
