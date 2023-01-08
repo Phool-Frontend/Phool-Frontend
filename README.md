@@ -16,7 +16,7 @@
 
 <br />
 
-hi, i'm [Abhishek Naidu](https://abhishknads.me/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+hi, i'm [Phool Herrera Condezo](https://www.linkedin.com/in/phool-antony-herrera-condezo-143004205/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -44,8 +44,8 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 ```text
 TypeScript   32 hrs 20 mins  ████████████████████████▓   98.95 %
-PHP         14 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   03.26 %
-JavaScript   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+PHP         14 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   30.26 %
+JavaScript   25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   18.77 %
 Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
