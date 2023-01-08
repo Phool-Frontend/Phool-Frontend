@@ -101,24 +101,6 @@ Other        0 secs   ░░░░░░░░░░░░░ 00.02 %
  <strong>Mapas de calor</strong> <em><a href="www,google.com">Ver Online</a> 👀</em>
 <br>
 <br></p><hr>
-<h3><a id="user-content--mis-estadisticas" class="anchor" aria-hidden="true" href="#-mis-estadisticas"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="mag_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f50e.png">🔎</g-emoji> Mis estadisticas:</h3>
-<details>
-    <summary><g-emoji class="g-emoji" alias="mag_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f50e.png">🔎</g-emoji> Ver</summary>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api?username=Phool-Frontend&amp;show_icons=true&amp;theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api?username=Phool-Frontend&amp;show_icons=true&amp;theme=tokyonight" alt="GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=Phool-Frontend&amp;show_icons=true&amp;theme=tokyonight" style="max-width:100%;"></a></p>
-<p><a target="_blank" rel="noopener noreferrer" href="https://github-readme-stats.vercel.app/api/top-langs/?username=Phool-Frontend&amp;show_icons=true&amp;theme=tokyonight"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phool-Frontend&amp;show_icons=true&amp;theme=tokyonight" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Phool-Frontend&amp;show_icons=true&amp;theme=tokyonight" style="max-width:100%;"></a></p>
-<br>
-</details>
-<h3><a id="user-content-️-actividad-reciente" class="anchor" aria-hidden="true" href="#️-actividad-reciente"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a><g-emoji class="g-emoji" alias="exclamation" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2757.png">❗️</g-emoji> Actividad Reciente</h3>
-<details open="">
-    <summary><g-emoji class="g-emoji" alias="exclamation" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2757.png">❗️</g-emoji> Ver</summary>
-<ol>
-<li><g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji> Merged PR <a href="https://github.com/ValeMerch/Git_GitHub/pull/14">#14</a> in <a href="https://github.com/Phool-Frontend/Herramientas">Herramientas</a></li>
-<li><g-emoji class="g-emoji" alias="exclamation" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2757.png">❗️</g-emoji> Closed issue <a href="https://github.com/ValeMerch/Git_GitHub/issues/10">#10</a> in <a href="https://github.com/Phool-Frontend/GdlWebcamp">GdlWebcamp</a></li>
-<li><g-emoji class="g-emoji" alias="exclamation" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2757.png">❗️</g-emoji> Opened issue <a href="https://github.com/ValeMerch/Git_GitHub/issues/13">#13</a> in <a href="https://github.com/Phool-Frontend/Gestor-Archivos">Gestor-Archivos</a></li>
-<li><g-emoji class="g-emoji" alias="exclamation" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2757.png">❗️</g-emoji> Opened issue <a href="https://github.com/chochy2001/Git_GitHub/issues/12">#12</a> in <a href="https://github.com/Phool-Frontend/codigo_barra">Codigo_barra_php_js</a></li>
-<li><g-emoji class="g-emoji" alias="exclamation" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2757.png">❗️</g-emoji> Closed issue <a href="https://github.com/chochy2001/Git_GitHub/issues/11">#11</a> in <a href="https://github.com/Phool-Frontend/Back_restaurante">Laravel_restaurante_Back</a></li>
-</ol>
-</details>
 
 
 📈 my github stats
