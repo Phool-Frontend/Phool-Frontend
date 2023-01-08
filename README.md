@@ -1,4 +1,4 @@
-### Hello call me phool 
+### Systems and IT engineer,Develpoment Web Full-stack
 <a href="https://www.instagram.com/phooldx/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -17,7 +17,7 @@
 
 <br />
 
-hi, i'm [Phool Herrera Condezo](https://www.linkedin.com/in/phool-antony-herrera-condezo-143004205/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
+Hi, i'm [Phool Herrera Condezo](https://www.linkedin.com/in/phool-antony-herrera-condezo-143004205/), a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
@@ -43,7 +43,7 @@ Other        0 secs   ░░░░░░░░░░░░░ 00.02 %
 <!--END_SECTION:waka-->
 
 
-<h2>Herramientas que uso</h2>
+<h2>My languages development</h2>
 <h3>Generales</h3>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"><img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"><img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" style="max-width:100%;"></a>
