@@ -5,10 +5,10 @@
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/abhisheknaiidu">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="">
+  <img align="left" alt="Phool | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
+<a href="https://www.linkedin.com/in/phool-antony-herrera-condezo-143004205/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -25,7 +25,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 - 💼 any freelance work? do reach, [email](mailto:phool_05@hotmail.com) :)
 - 💬 ask me about anything, i am happy to help;
-- <a href="https://api.whatsapp.com/send?phone=51928450226&text=Hola!!!%20vi%20tu%20perfil%20de%20Github,%20y%20decidi%20contactarte." rel="nofollow">
+- <a href="https://api.whatsapp.com/send?phone=51928450226&text=Hola!!!%20vi%20tu%20perfil%20de%20Github,%20y%20decidi%20contactarte." rel="nofollow"></a>
 
 ** My languages development:**  
 
