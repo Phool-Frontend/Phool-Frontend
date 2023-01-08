@@ -100,7 +100,7 @@ Other        0 secs   ░░░░░░░░░░░░░ 00.02 %
 <a href="#" rel="nofollow"><img align="left" alt="Formulae Calculo Pro" width="40px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_php_icon_130266.png" data-canonical-src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" style="max-width:100%;"></a>
  <strong>Mapas de calor</strong> <em><a href="www,google.com">Ver Online</a> 👀</em>
 <br>
-<br></p><hr>
+<br></p>
 
 
 📈 my github stats
