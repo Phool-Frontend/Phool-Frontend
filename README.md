@@ -26,10 +26,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 💼 any freelance work? do reach, [email](mailto:phool_05@hotmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 <p>
-  <a href="http://www.phool.dx.am" rel="nofollow"><img align="bottom" width="22px" src="https://camo.githubusercontent.com/37987306da994e36994ce2ed25880e93a1fee86e5bda6f5383b7fe714d287134/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f313135342f504e472f3531322f313438363536343431352d676c6f62655f38313531352e706e67" data-canonical-src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564415-globe_81515.png" style="max-width:100%;"></a>
-  <a href="https://api.whatsapp.com/send?phone=51928450226&text=Hola!!!%20vi%20tu%20perfil%20de%20Github,%20y%20decidi%20contactarte." rel="nofollow">
-  <a href="https://www.instagram.com/phooldx/" rel="nofollow"><img align="left" alt="Instagram" width="22px" src="https://camo.githubusercontent.com/d4bd823888754530b2b96f6ad8b9ab164cb9c10b5ae305aae360487fef3cde17/68747470733a2f2f313030306d61726361732e6e65742f77702d636f6e74656e742f75706c6f6164732f323031392f31312f496e7374616772616d2d6c6f676f2e706e67" data-canonical-src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" style="max-width:100%;"></a>
-  <a href="https://www.facebook.com/phool.herreracondezo/" rel="nofollow"><img align="left" alt="Facebook" width="22px" src="https://cdn.icon-icons.com/icons2/555/PNG/512/facebook_icon-icons.com_53612.png" data-canonical-src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" style="max-width:100%;"></a>
+<a href="https://api.whatsapp.com/send?phone=51928450226&text=Hola!!!%20vi%20tu%20perfil%20de%20Github,%20y%20decidi%20contactarte." rel="nofollow"><img align="left" alt="YouTube" width="22px" src="https://cdn.icon-icons.com/icons2/373/PNG/256/Whatsapp_37229.png" data-canonical-src="https://cdn.icon-icons.com/icons2/373/PNG/256/Whatsapp_37229.png" style="max-width:100%;"></a>
 </p><hr>
 ** My languages development:**  
 
