@@ -42,6 +42,18 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+TypeScript   32 hrs 20 mins  ██████████████░   50.95 %
+PHP          14 mins         ▒▒▒░░░░░░░░░░░░   30.26 %
+JavaScript   25 mins         ▒░░░░░░░░░░░░░░   18.77 %
+Other        0 secs          ░░░░░░░░░░░░░░░   00.02 %
+```
+
+<!--END_SECTION:waka-->
+
 
 <h2>Herramientas que uso</h2>
 <h3>Generales</h3>
@@ -87,26 +99,6 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
     <a target="_blank" rel="noopener noreferrer" href="#"><img align="bottom" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png" width="30" height="30" style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="#"><img align="bottom" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ruby_original_wordmark_logo_icon_146364.png" width="30" height="30" style="max-width:100%;"></a><hr>
     
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   32 hrs 20 mins  ██████████████░   50.95 %
-PHP          14 mins         ▒▒▒░░░░░░░░░░░░   30.26 %
-JavaScript   25 mins         ▒░░░░░░░░░░░░░░   18.77 %
-Other        0 secs          ░░░░░░░░░░░░░░░   00.02 %
-```
-
-<!--END_SECTION:waka-->
-
-
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 📈 my github stats
