@@ -45,7 +45,6 @@ Other        0 secs   ░░░░░░░░░░░░░ 00.02 %
 
 <h2>My languages development</h2>
 <h3>Generales</h3>
-<a><img width="30" height="30"  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"><img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg"><img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" style="max-width:100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"><img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30" height="30" style="max-width:100%;"></a>
