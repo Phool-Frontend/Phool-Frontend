@@ -26,7 +26,7 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
   
 - 💼 any freelance work? do reach, [email](mailto:phool_05@hotmail.com) :)
 - 💬 ask me about anything, i am happy to help;
-- <a href="https://api.whatsapp.com/send?phone=51928450226&text=Hola!!!%20vi%20tu%20perfil%20de%20Github,%20y%20decidi%20contactarte." rel="nofollow"><img align="left" alt="YouTube" width="22px" src="https://cdn.icon-icons.com/icons2/373/PNG/256/Whatsapp_37229.png" data-canonical-src="https://cdn.icon-icons.com/icons2/373/PNG/256/Whatsapp_37229.png" style="max-width:100%;padding:0"></a>click here, I'm comunicated with you, good luck.
+- <a href="https://api.whatsapp.com/send?phone=51928450226&text=Hola!!!%20vi%20tu%20perfil%20de%20Github,%20y%20decidi%20contactarte." rel="nofollow"><img align="center" alt="YouTube" width="22px" src="https://cdn.icon-icons.com/icons2/373/PNG/256/Whatsapp_37229.png" data-canonical-src="https://cdn.icon-icons.com/icons2/373/PNG/256/Whatsapp_37229.png" style="max-width:100%;"></a>click here, I'm comunicated with you, good luck.
 
 
 
