@@ -86,9 +86,8 @@ Other        0 secs   ░░░░░░░░░░░░░ 00.02 %
     <a target="_blank" rel="noopener noreferrer" href="#"><img align="bottom" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/jenkins_logo_icon_170552.png" width="30" height="30" style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="#"><img align="bottom" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/kubernetes_logo_icon_168359.png" width="30" height="30" style="max-width:100%;"></a>
     <a target="_blank" rel="noopener noreferrer" href="#"><img align="bottom" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/ruby_original_wordmark_logo_icon_146364.png" width="30" height="30" style="max-width:100%;">
-</a>
+</a><br>
     
-
 
 
 📈 my github stats
