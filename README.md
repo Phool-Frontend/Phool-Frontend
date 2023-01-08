@@ -2,8 +2,7 @@
 <a href="https://www.instagram.com/phooldx/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+<a href="https://www.facebook.com/phool.herreracondezo/" rel="nofollow"><img align="left" alt="Facebook" width="22px" src="https://cdn.icon-icons.com/icons2/555/PNG/512/facebook_icon-icons.com_53612.png" data-canonical-src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" style="max-width:100%;">
 </a>
 <a href="">
   <img align="left" alt="Phool | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -14,7 +13,7 @@
 
 
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=Phool-Frontend)
 
 <br />
 
