@@ -5,10 +5,10 @@
 <a href="https://www.facebook.com/phool.herreracondezo/" rel="nofollow"><img align="left" alt="Facebook" width="22px" src="https://cdn.icon-icons.com/icons2/555/PNG/512/facebook_icon-icons.com_53612.png" data-canonical-src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-logo.png" style="max-width:100%;">
 </a>
 <a href="">
-  <img align="left" alt="Phool | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Phool | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" />
 </a>
 <a href="https://www.linkedin.com/in/phool-herrera/">
-  <img align="left" alt="Phool LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img align="left" alt="Phool LinkedIN" width="22px" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" />
 </a>
 
 
